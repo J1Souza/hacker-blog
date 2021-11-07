@@ -6,7 +6,7 @@ Demo: [https://ashishchaudhary.in/hacker-blog](https://ashishchaudhary.in/hacker
 
 ### Included
 
-1. Pagination
+1. Pagination (Jekyll 3.5, so refer here ) -> (https://github.com/sverrirs/jekyll-paginate-v2)
 2. SEO tags
 3. Archive Page
 4. About Page
